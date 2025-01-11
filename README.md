@@ -76,7 +76,7 @@ A simple banking system project that allows users to create accounts, deposit mo
 
 
 ## License
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 * This project is licensed under the MIT License.
 
 
